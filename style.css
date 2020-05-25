@@ -1,0 +1,45 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #b2dffb;
+}
+
+.title-site {
+	font-family: 'Playfair Display', serif;
+	font-weight: bold;
+	font-size: 88px;
+	color: orange;
+	text-shadow: 4px 1px 1px #dd6b4d;
+	text-align: center;
+}
+
+.line-title {
+	width: 23%;
+}
+
+.card{
+  width: 50%;
+  background: #e7e7e7;
+  height: 40vh;
+  margin: 50px auto;
+  border-radius: 2px;
+}
+
+
+.close{
+  float: right;
+  margin-top: -2px;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+.card h1{
+  padding: 5px 0;
+  text-align: center;
+}
+
+.card p{
+  text-align: center;
+  margin:40px 0;
+  font-size:20px;
+}
